@@ -9,7 +9,7 @@
 
 - 🔭 I have experience as **software engineer - ict consultant (10 years), eu institutions (13 years)**
 
-- 🌱 I’m currently learning **mobile development with AI**
+- 🌱 I’m currently learning **mobile development** and **AI**
 
 - 📄 Know about my experiences [https://linkedin.com/wouterramon](https://linkedin.com/wouterramon)
 
