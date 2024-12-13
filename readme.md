@@ -7,9 +7,9 @@
 -->
 <p align="left"> <a href="https://twitter.com/allworknoplay" target="blank"><img src="https://img.shields.io/twitter/follow/allworknoplay?logo=twitter&style=for-the-badge" alt="allworknoplay" /></a> </p>
 
-- 🔭 I have experience as **software engineer - ict consultant (10 years), eu institutions (13 years)**
+- 🔭 I have experience in **custom software development - operations - cloud - ai**
 
-- 🌱 I’m currently learning **mobile development** and **AI**
+- 🌱 I’m currently learning **AI agents**
 
 - 📄 Know about my experiences [https://linkedin.com/wouterramon](https://linkedin.com/wouterramon)
 
